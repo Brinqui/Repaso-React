@@ -1,7 +1,7 @@
 # Clases de repaso.
 
 # 01_clase_refuerzo_22_marzo
-   Arreglar borrado.
+  - Arreglar borrado.
 # 02_clase_refuerzo_29_marzo
   - Añadir React-UUID.
   - Terminar css.
