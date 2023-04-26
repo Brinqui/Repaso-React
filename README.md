@@ -3,7 +3,7 @@
 # 01_clase_refuerzo_22_marzo
   - Arreglar borrado.
 # 02_clase_refuerzo_29_marzo
-  - Añadir React-UUID.
-  - Terminar css.
-  - Añadir el botón de eliminado y cambiar la posición de las tareas que entran.
+  - Retocar css.
 # 03_clase_refuerzo_12_abril
+  - Barra de busqueda.
+  - Login.
