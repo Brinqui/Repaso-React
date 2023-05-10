@@ -1,0 +1,43 @@
+useEffect:
+Es un método de React que permite ejecutar el código
+entre llaves una vez cada vez que se modifique algún
+estado (componente,variable) siempre y cuando coloquemos
+algo en el array de dependencias. Cuando ponemos un array
+vacio quiere decir que no tiene dependencias entonces solo
+se ejecuta cuando se pinta por primera vez el componente.
+
+-Sin array de dependencias se ejecuta cada vez que se
+modifica algo.
+
+-Si ponemos un array de dependencias vacio solo una vez
+
+-Y si ponemos un estado dentro del array se pinta una vez y
+tantas veces como modificaciones le hagamos al estado
+-----------------------------------------------------------
+useState:
+Guardan información
+
+
+Mejora día 1:
+Poner botón en la card
+-----------------------------------------------------------
+29 Marzo
+Hook personalizado.
+
+To do con un div centrado,un formulario con un botón para
+añadir tarea y cada tarea si le das click se pone 
+difuminada y se pone al final.
+
+Nav y footer componentes.
+
+El formulario es un componente y la zona de las tareas es 
+otro.
+El componente primer es NewTask.jsx y el segundo Task.jsx.
+
+Restricciones:
+- El botón del formulario solo aparece si hay algo escrito.
+- No puede haber dos tareas repetidas. Si repito aparece de
+color rojo debajo del formulario un mensaje de "Tarea 
+repetida" y no se inserta.
+- Se pueden rescatar las tareas, si le das un click se pone
+en primera posición.
