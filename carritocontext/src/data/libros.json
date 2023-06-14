@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "nombre":"Como hacer que te pasen cosas buenas",
+        "precio":12,
+        "imagen":"https://m.media-amazon.com/images/P/B07G5365QW.01._SCLZZZZZZZ_SX500_.jpg"
+    },
+    {
+        "id": 2,
+        "nombre":"El cuco de cristal",
+        "precio":8,
+        "imagen":"https://m.media-amazon.com/images/P/B0BGW5S88M.01._SCLZZZZZZZ_SX500_.jpg"
+    },
+    {
+        "id": 3,
+        "nombre":"El chico de las musarañas",
+        "precio":3,
+        "imagen":"https://m.media-amazon.com/images/P/B0BWNGVM3Z.01._SCLZZZZZZZ_SX500_.jpg"
+    }
+
+]

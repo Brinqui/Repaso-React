@@ -5,7 +5,6 @@ import Footer from "../componets/footer/Footer";
 
 const LayoutPublic = () => {
   return (
-    // Añadir Nav y Footer como componente.
     <div>
       <Nav />
       <hr />
