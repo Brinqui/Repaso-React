@@ -141,7 +141,6 @@ i {
   margin-top: 8px;
 }
 
-/* -- ↓ ↓ ↓ some responsiveness ↓ ↓ ↓ -- */
 
 @media(max-width: 1000px) {
   body {
